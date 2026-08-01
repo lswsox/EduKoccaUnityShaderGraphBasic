@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: AddMultiplyBlend_AlphaBlend
-  m_Shader: {fileID: -6465566751694194690, guid: 8296794e40b38bb458af05798e8a3497, type: 3}
+  m_Name: AddMultiplyBlend_AlphaBlendColor
+  m_Shader: {fileID: -6465566751694194690, guid: bf8789c03400860439cea7091826f956, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -85,10 +85,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_97f991c4a6228086a7fc562b34a19b2c_Texture_1_Texture2D:
         m_Texture: {fileID: 2800000, guid: f8843a649c4a6674c83763d3cb52b838, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_be69d61c113940479e8ac98644897e86_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 2aa76fa5908ad2d4fac3e8e4e15068f2, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
