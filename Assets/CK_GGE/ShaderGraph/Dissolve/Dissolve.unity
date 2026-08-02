@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 205143477}
   - component: {fileID: 205143476}
   m_Layer: 0
-  m_Name: Dissolve_CustomLinearParticle
+  m_Name: Dissolve_LinearStepParticle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5321,7 +5321,7 @@ GameObject:
   - component: {fileID: 1169203749}
   - component: {fileID: 1169203748}
   m_Layer: 0
-  m_Name: Dissolve_CustomLinear
+  m_Name: Dissolve_LinearStep
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

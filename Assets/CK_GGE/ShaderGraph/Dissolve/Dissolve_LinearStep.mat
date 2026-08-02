@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Dissolve_CustomLinearParticle
-  m_Shader: {fileID: -6465566751694194690, guid: 8738e8d86d112f14fabcf1061496b62a, type: 3}
+  m_Name: Dissolve_LinearStep
+  m_Shader: {fileID: -6465566751694194690, guid: ca146ad59ba3a6b4982af1a6761a8653, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -83,11 +83,11 @@ Material:
     - _Cutoff: 0.5
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _Fade: 0
+    - _Fade: 0.179
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _Hardness: 0.09
+    - _Hardness: 0.05
     - _Metallic: 0
     - _Multiplier: 2
     - _OcclusionStrength: 1
@@ -102,8 +102,9 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+    - BaseColor: {r: 0.81960785, g: 0.7764706, b: 0.6156863, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 1, g: 0.96574545, b: 0.3803922, a: 1}
+    - _Color: {r: 1, g: 0.9340477, b: 0.5990566, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
